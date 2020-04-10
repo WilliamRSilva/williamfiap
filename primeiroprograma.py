@@ -1,0 +1,1 @@
+print ("Primeiro exercicio docker com python by WILLIAM")
